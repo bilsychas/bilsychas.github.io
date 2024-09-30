@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bilsychas.github.io/sitemap.html.gz
+Sitemap: https://bilsychas.github.io/app/sitemap.html.gz
+Sitemap: https://bilsychas.github.io/assets/sitemap.html.gz
+Sitemap: https://bilsychas.github.io/css/sitemap.html.gz
+Sitemap: https://bilsychas.github.io/data/sitemap.html.gz
+Sitemap: https://bilsychas.github.io/includes/sitemap.html.gz
+Sitemap: https://bilsychas.github.io/item/sitemap.html.gz
+Sitemap: https://bilsychas.github.io/src/sitemap.html.gz
