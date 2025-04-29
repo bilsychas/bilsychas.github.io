@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bilsychas.mihos.pl/bilsychas.txt
